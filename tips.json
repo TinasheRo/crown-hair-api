@@ -1,0 +1,16 @@
+{
+  "tips": [
+    {"name": "Sulfate-free wash", "hairType": "4C", "porosity": "all", "advice": "Choose a sulfate-free shampoo or cleansing conditioner so you don't strip the natural oils 4C hair needs."},
+    {"name": "Watch your silicones", "hairType": "4C", "porosity": "all", "advice": "Non-water-soluble silicones such as dimethicone can build up and block moisture. Check labels, or clarify when buildup appears."},
+    {"name": "Low manipulation", "hairType": "4C", "porosity": "all", "advice": "Keep styling simple. Less combing and handling means less breakage on fragile 4C strands."},
+    {"name": "Finger detangle", "hairType": "4C", "porosity": "all", "advice": "Detangle on damp hair coated in conditioner, using fingers or a wide-tooth comb from the ends upward."},
+    {"name": "Satin at night", "hairType": "4C", "porosity": "all", "advice": "Protect your hair overnight with a satin bonnet or pillowcase to cut friction and moisture loss."},
+    {"name": "Layer your moisture", "hairType": "4C", "porosity": "high", "advice": "High porosity hair loses moisture fast. Layer a water-based leave-in, then a cream, then seal with a butter or heavier oil."},
+    {"name": "Protein balance", "hairType": "4C", "porosity": "high", "advice": "A gentle protein treatment now and then can help fill gaps in the cuticle. Follow it with a moisturising deep conditioner."},
+    {"name": "Go easy on heat", "hairType": "4C", "porosity": "high", "advice": "Heat and very hot water can lift the cuticle further. Use lukewarm water and a heat protectant."},
+    {"name": "Warm deep condition", "hairType": "4C", "porosity": "low", "advice": "Low porosity hair resists moisture. Deep condition with gentle heat, such as a warm towel or steamer, so the cuticle lifts and the product absorbs."},
+    {"name": "Go lightweight", "hairType": "4C", "porosity": "low", "advice": "Heavy butters can sit on top of low porosity hair. Choose lightweight oils like jojoba or grapeseed and thin, water-based products."},
+    {"name": "Apply to damp hair", "hairType": "4C", "porosity": "low", "advice": "Apply products to warm, damp hair in small amounts. Use less than you think you need, since low porosity hair gets weighed down easily."},
+    {"name": "Clarify monthly", "hairType": "4C", "porosity": "low", "advice": "Product buildup is common with low porosity hair. A monthly clarifying wash helps moisture get back in."}
+  ]
+}
